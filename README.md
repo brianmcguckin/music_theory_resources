@@ -16,12 +16,9 @@ This is a repo to organize links to anything related to musical theory. It serve
 
 [Motivic Rhythms (Connes 2020)](https://arxiv.org/pdf/1812.09946.pdf)
 
-<br>
-<br>
 ## Philosophy
 [Godel, Escher, Bach: An Eternal Golden Braid, Hofstadter 1979](https://www.physixfan.com/wp-content/files/GEBen.pdf)
-<br>
-<br>
+
 ## Physics & Math
 ### Wikipedia
 [Sound](https://en.wikipedia.org/wiki/Sound)
